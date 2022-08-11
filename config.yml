@@ -197,7 +197,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  useRelativeTime: true
+  useRelativeTime: false
  
   # If enabled, doesn't show seconds on relative times.
   #
@@ -222,7 +222,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 
   # Should incident history be separated
   # like in an archive view?

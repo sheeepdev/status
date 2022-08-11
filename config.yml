@@ -155,9 +155,12 @@ params:
     - name: Main Website
       description: My personal website
       link: https://sheepdev.xyz/
+      category: Services
     - name: Status
       description: The status page you are on.
-      link: https://example.com/
+      link: https://status.sheepdev.xyz/
+      category: Services
+
 
   # What date format to use?
   #

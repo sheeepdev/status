@@ -1,33 +1,22 @@
-# cState Site v5.4
+<p align="center">
+    <img src="assets/status.png" />
+    <h2 align="center">sheep's status page</h2>
+</p>
 
-This is the default cState status page website directory/folder.
+<p align="center">A status page for all my "network services"!</p>
 
-* Example site repository link (you are here): https://github.com/cstate/example
-* Main cState source code repository: https://github.com/cstate/cstate
+## Development
 
-## Are you updating? Use these commands
+Run `hugo server`
 
-Download your site with all the directories. `git clone --recursive <your repo link goes here>`
+## Updating
 
-Update the cState theme submodule. `git submodule foreach git pull origin master`
+See [`UPDATE.md`](https://github.com/sheeepdev/status/blob/master/UPDATE.md)
 
-In the parent directory, type `hugo serve`. Check to see if everything is working.
+## Team
 
-Then do `git add -A; git commit -m "Update cState"; git push origin <branch, probably main or master>`. Your status page is now updated and uploaded.
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/lunar-theme/template/graphs/contributors).
 
-
-## For maintainers (probably not for you)
-
-Maintainers need to update both cstate/cstate and cstate/example for each new version.
-
-Download this repo with all the directories. `git clone --recursive -b master https://github.com/cstate/example.git`
-
-Add your changes from cstate/cstate's exampleSite folder.
-
-Update the cState theme submodule. `git submodule foreach git pull origin master`
-
-Then push `git add -A; git commit -m "Update cState vX.X.X"; git push origin master`.
-
-## License
-
-MIT © Mantas Vilčinskas
+[![sheep](https://avatars.githubusercontent.com/u/68562536?v=4)](https://github.com/sheeepdev) |
+--- |
+[sheep](https://github.com/sheeepdev) |
